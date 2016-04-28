@@ -1,7 +1,7 @@
 #FizzBuzz challenge
 
 name = raw_input("What is your name?")
-print "Hi, %s." % name
+print "Hello, %s." % name
 
 print("Hello World! Welcome to the FizzBuzz Challenge!")
 
